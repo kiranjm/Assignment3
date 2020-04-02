@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string-array name="items">
+        <item>Masala_Dosa</item>
+        <item>Plain_Dosa</item>
+        <item>Ney_Roast</item>
+        <item>Idli_Sambar</item>
+        <item>Puttu_Kadala</item>
+        <item>Veg_Fried_Rice</item>
+        <item>Chicken_Fried_Rice</item>
+        <item>Kothu_Porotta</item>
+        <item>Veg_Biriyani</item>
+        <item>Chicken_Biriyani</item>
+    </string-array>
+</resources>
